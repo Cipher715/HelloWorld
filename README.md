@@ -4,7 +4,7 @@ This is Hello World app in Java.
 
 This program is made to practive using Java in my career
 
-[Software Demo Video](https://youtu.be/r9wl4S8E6Cs)
+[Software Demo Video](https://youtu.be/h6HwHzj2Ytw)
 
 # Development Environment
 
